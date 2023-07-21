@@ -1,0 +1,1 @@
+The app can be used as an ecommerce frontend that can be used to keep track of state that can communicate with any backend to perform payment processing.
